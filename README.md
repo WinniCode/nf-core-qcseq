@@ -77,7 +77,7 @@ For more details about the output files and reports, please refer to the
 
 ## Credits
 
-nf-core/qcseq was originally written by Chris Winnington.
+nf-core/qcseq was originally written by C Winnington.
 
 We thank the following people for their extensive assistance in the development of this pipeline:
 
